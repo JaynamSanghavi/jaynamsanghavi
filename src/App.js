@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="pageloader is-black is-active" id="loader">
         <span className="title title-pageloader">
-          Software Developer | Fullstack Developer | CS Undergrad
+          Web Developer | Software Developer | Mobile App Developer | CS Undergrad
           <span className="pageloader-emoji">
             <img
               src="https://twemoji.maxcdn.com/v/12.1.6/72x72/1f468-200d-1f4bb.png"
@@ -46,7 +46,7 @@ function App() {
             </div>
             <div className="primary-content">
               <p>
-                I'm a Software &amp; Web developer based out of Mumbai, India. I
+                I'm a Software &amp; Web developer based in Mumbai, India. I
                 help users and businesses reach their goals by building
                 meaningful digital products and interactive experiences.
                 Building applications is central to everything. I love to work
@@ -112,7 +112,7 @@ function App() {
                 src="https://cdn.svgporn.com/logos/java.svg"
                 alt="angular-icon"
               />
-              <p className="primary-content">Java Programming</p>
+              <p className="primary-content">Java</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
@@ -151,13 +151,6 @@ function App() {
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
-                src="https://cdn.svgporn.com/logos/bulma.svg"
-                alt="angular-icon"
-              />
-              <p className="primary-content">Bulma CSS</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
                 src="https://cdn.svgporn.com/logos/mysql.svg"
                 alt="angular-icon"
               />
@@ -183,6 +176,13 @@ function App() {
                 alt="angular-icon"
               />
               <p className="primary-content">C# Programming</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/bulma.svg"
+                alt="angular-icon"
+              />
+              <p className="primary-content">Bulma CSS</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
@@ -552,7 +552,7 @@ function App() {
             <p>
               Made with <a href="https://bulma.io/">Bulma</a>,
               <a href="https://www.flaticon.com/">Flaticon</a> &amp;
-              <a href="https://fontawesome.com/">Fontawesome</a> <br />
+              <a href="https://fontawesome.com/"> &nbsp;Fontawesome</a> <br />
               &copy; Jaynam Sanghavi 2020.
               <br />
               All logo and images are trademarks of respective organizations.

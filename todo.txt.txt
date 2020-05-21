@@ -1,0 +1,18 @@
+1) add in head 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167266906-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-167266906-1');
+</script>
+= done
+
+2)BLuma remove and add dialogflow 
+3) Work ko thoda aur niche
+4) Font awesome me space = done
+5) Based in mumbai karna = done
+6) Remove programming from java = Done
+7) loader me text change = done
