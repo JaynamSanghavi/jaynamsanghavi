@@ -103,126 +103,126 @@ function App() {
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/c.svg"
-                alt="angular-icon"
+                alt="C-icon"
               />
               <p className="primary-content">C Programming</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/java.svg"
-                alt="angular-icon"
+                alt="java-icon"
               />
               <p className="primary-content">Java</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/html-5.svg"
-                alt="angular-icon"
+                alt="html-5-icon"
               />
               <p className="primary-content">HTML</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/css-3.svg"
-                alt="angular-icon"
+                alt="css-3-icon"
               />
               <p className="primary-content">CSS</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/javascript.svg"
-                alt="angular-icon"
+                alt="js-icon"
               />
               <p className="primary-content">JavaScript</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/jquery.svg"
-                alt="angular-icon"
+                alt="jquery-icon"
               />
               <p className="primary-content">jQuery</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/bootstrap.svg"
-                alt="angular-icon"
+                alt="bootstrap-icon"
               />
               <p className="primary-content">Bootstrap</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/mysql.svg"
-                alt="angular-icon"
+                alt="mysql-icon"
               />
               <p className="primary-content">MySQL</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/php.svg"
-                alt="angular-icon"
+                alt="php-icon"
               />
               <p className="primary-content">PHP Programming</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/flutter.svg"
-                alt="angular-icon"
+                alt="flutter-icon"
               />
               <p className="primary-content">Flutter SDK</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/c-sharp.svg"
-                alt="angular-icon"
+                alt="c#-icon"
               />
               <p className="primary-content">C# Programming</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
-                src="https://cdn.svgporn.com/logos/bulma.svg"
-                alt="angular-icon"
+                src="images/dialogflow.svg"
+                alt="dialogflow-icon"
               />
-              <p className="primary-content">Bulma CSS</p>
+              <p className="primary-content">Dialogflow</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/mongodb.svg"
-                alt="angular-icon"
+                alt="mongodb-icon"
               />
               <p className="primary-content">Mongo DB</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/express.svg"
-                alt="angular-icon"
+                alt="express-icon"
               />
               <p className="primary-content">Express.js</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/react.svg"
-                alt="angular-icon"
+                alt="react-icon"
               />
               <p className="primary-content">React.js</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/nodejs.svg"
-                alt="angular-icon"
+                alt="nodejs-icon"
               />
               <p className="primary-content">Node.js</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/git.svg"
-                alt="angular-icon"
+                alt="git-icon"
               />
               <p className="primary-content">Git/Github</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
                 src="https://cdn.svgporn.com/logos/heroku.svg"
-                alt="angular-icon"
+                alt="heroku-icon"
               />
               <p className="primary-content">Heroku</p>
             </div>
