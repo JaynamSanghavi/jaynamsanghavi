@@ -179,10 +179,10 @@ function App() {
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
-                src="images/dialogflow.svg"
-                alt="dialogflow-icon"
+                src="https://cdn.svgporn.com/logos/salesforce.svg"
+                alt="salesforce-icon"
               />
-              <p className="primary-content">Dialogflow</p>
+              <p className="primary-content">Salesforce</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
