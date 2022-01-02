@@ -625,7 +625,7 @@ function App() {
       <footer className="footer footer-custom">
         <div className="content has-text-centered">
           <p>
-            Handcrafted with
+            Handcrafted with 
             <span className="footer-emoji">
               <img
                 src="https://twemoji.maxcdn.com/v/12.1.6/72x72/2764.png"
