@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="pageloader is-black is-active" id="loader">
         <span className="title title-pageloader">
-          Web Developer | Software Developer | Mobile App Developer | CS Undergrad
+          Salesforce Developer | Web Developer | Mobile App Developer | CS Undergrad
           <span className="pageloader-emoji">
             <img
               src="https://twemoji.maxcdn.com/v/12.1.6/72x72/1f468-200d-1f4bb.png"
@@ -24,7 +24,7 @@ function App() {
           </div>
           <nav className="navigation">
             <a
-              href="https://drive.google.com/file/d/10px4uijEb8Mu_9NEoNt4adwO8uNmOTQD/view?usp=sharing"
+              href="https://drive.google.com/file/d/1WIFaKX0bBjMqXRQNtcFzMlmAmCnK0Gi7/view?usp=sharing"
               className="tag resume-tag is-dark is-medium is-rounded"
             >
               Resume
@@ -98,139 +98,166 @@ function App() {
           </div>
         </div>
         <div className="hero-header">
-          <div className="section-header">I can help you with</div>
-          <div className="columns is-multiline skills-list is-mobile has-text-centered">
-            <div className="column is-2-desktop skill is-4-mobile">
+        <div className="hero-header" id="education">
+          <div className="section-header">
+            Studied from
+            <span className="tag-emoji">
               <img
-                src="https://cdn.svgporn.com/logos/c.svg"
-                alt="C-icon"
+                src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4d6.png"
+                alt="📖"
+                className="book"
               />
-              <p className="primary-content">C Programming</p>
+            </span>
+          </div>
+          <div className="columns is-multiline">
+            <div className="column is-6">
+              <div className="card">
+                <div className="card-content">
+                  <div className="media">
+                    <div className="media-left">
+                      <figure className="image is-64x64 project-logo">
+                        <img src="images/svv.png" alt="Placeholder image" />
+                      </figure>
+                    </div>
+                  </div>
+                  <div className="project-data">
+                    <h4>
+                      <a href="javascript:void(0)">K. J. Somaiya College of Engineering</a>
+                      <br />
+                      BTech in Computer Engineering (2017-2020)
+                      <br />
+                      CPA: 8.6/10
+                    </h4>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/java.svg"
-                alt="java-icon"
-              />
-              <p className="primary-content">Java</p>
+            <div className="column is-6">
+              <div className="card">
+                <div className="card-content">
+                  <div className="media">
+                    <div className="media-left">
+                      <figure className="image is-64x64 project-logo">
+                        <img src="images/VESP.png" alt="Placeholder image" />
+                      </figure>
+                    </div>
+                  </div>
+                  <div className="project-data">
+                    <h4>
+                      <a href="javascript:void(0)">Vivekanand Education Society's Polytechnic College</a>
+                      <br />
+                      Diploma in Computer technology (2014-2017)
+                      <br />
+                      Percentage: 87%
+                    </h4>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div className="column is-2-desktop skill is-4-mobile">
+          </div>
+        </div>
+        <div className="hero-header" id="workex">
+          <div className="section-header">
+            Also worked with
+            <span className="tag-emoji">
               <img
-                src="https://cdn.svgporn.com/logos/html-5.svg"
-                alt="html-5-icon"
+                src="https://twemoji.maxcdn.com/v/12.1.6/72x72/1f4bc.png"
+                alt="💼"
+                className="suitcase"
               />
-              <p className="primary-content">HTML</p>
+            </span>
+          </div>
+          <div className="columns is-multiline">
+          <div className="column is-4">
+              <div className="card">
+                <div className="card-content">
+                  <div className="media">
+                    <div className="media-left">
+                      <figure className="image project-logo">
+                        <img src="images/WoltersKluwer.svg" alt="Placeholder image" />
+                      </figure>
+                    </div>
+                  </div>
+                  <div className="project-data">
+                    <h4>
+                      <a href="javascript:void(0)">Wolters Kluwer</a>
+                      <br />
+                      Associate Enterprise Software Engineer (Oct 20 - Present)
+                    </h4>
+                    <p>
+                    Collaborated with business for requirement gathering to onboard them onto the salesforce sales cloud platform.Analyzing the 
+                    requirement, designing the architecture, and developing it in the sales cloud platform.
+                    </p>
+                    <div className="tag-list">
+                      <span className="tag is-black">Salesforce</span>
+                      <span className="tag is-black">Apex</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/css-3.svg"
-                alt="css-3-icon"
-              />
-              <p className="primary-content">CSS</p>
+            <div className="column is-4">
+              <div className="card">
+                <div className="card-content">
+                  <div className="media">
+                    <div className="media-left">
+                      <figure className="image is-64x64 project-logo">
+                        <img src="images/svv.png" alt="Placeholder image" />
+                      </figure>
+                    </div>
+                  </div>
+                  <div className="project-data">
+                    <h4>
+                      <a href="javascript:void(0)">KJSCE Outreach Center</a>
+                      <br />
+                      Member of Technical Team (Feb 19 - April 19)
+                    </h4>
+                    <p>
+                    Developed a mobile application which would display their information to user. Also, revamp their UI design and brought the 
+                    application to ios platform.
+                    </p>
+                    <div className="tag-list">
+                      <span className="tag is-black">Flutter SDK</span>
+                      <span className="tag is-black">Firebase</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/javascript.svg"
-                alt="js-icon"
-              />
-              <p className="primary-content">JavaScript</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/jquery.svg"
-                alt="jquery-icon"
-              />
-              <p className="primary-content">jQuery</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/bootstrap.svg"
-                alt="bootstrap-icon"
-              />
-              <p className="primary-content">Bootstrap</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/mysql.svg"
-                alt="mysql-icon"
-              />
-              <p className="primary-content">MySQL</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/php.svg"
-                alt="php-icon"
-              />
-              <p className="primary-content">PHP Programming</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/flutter.svg"
-                alt="flutter-icon"
-              />
-              <p className="primary-content">Flutter SDK</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/c-sharp.svg"
-                alt="c#-icon"
-              />
-              <p className="primary-content">C# Programming</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/salesforce.svg"
-                alt="salesforce-icon"
-              />
-              <p className="primary-content">Salesforce</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/mongodb.svg"
-                alt="mongodb-icon"
-              />
-              <p className="primary-content">Mongo DB</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/express.svg"
-                alt="express-icon"
-              />
-              <p className="primary-content">Express.js</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/react.svg"
-                alt="react-icon"
-              />
-              <p className="primary-content">React.js</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/nodejs.svg"
-                alt="nodejs-icon"
-              />
-              <p className="primary-content">Node.js</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/git.svg"
-                alt="git-icon"
-              />
-              <p className="primary-content">Git/Github</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
-                src="https://cdn.svgporn.com/logos/heroku.svg"
-                alt="heroku-icon"
-              />
-              <p className="primary-content">Heroku</p>
+            <div className="column is-4">
+              <div className="card">
+                <div className="card-content">
+                  <div className="media">
+                    <div className="media-left">
+                      <figure className="image is-64x64 project-logo">
+                        <img src="images/svv.png" alt="Placeholder image" />
+                      </figure>
+                    </div>
+                  </div>
+                  <div className="project-data">
+                    <h4>
+                      <a href="javascript:void(0)">KJSCE Computer Department</a>
+                      <br />
+                      Backend Intern (June 18 - July 18)
+                    </h4>
+                    <p>
+                    Designed, developed, and architected a website for K.J Somaiya College of Engg for booking of common halls, seminar halls and 
+                    external device like projectors among various department.
+                    </p>
+                    <div className="tag-list">
+                      <span className="tag is-black">Vanilla PHP</span>
+                      <span className="tag is-black">MySQL</span>
+                      <span className="tag is-black">AJAX</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
         <div className="hero-header" id="projects">
           <div className="section-header">
-            Stuff I've developed
+            Project I've developed
             <span className="tag-emoji">
               <img
                 src="https://twemoji.maxcdn.com/v/12.1.6/72x72/1f4bb.png"
@@ -463,78 +490,137 @@ function App() {
             </div>
           </div>
         </div>
-        <div className="hero-header" id="projects">
-          <div className="section-header">
-            and also worked with
-            <span className="tag-emoji">
+          <div className="section-header">Tech I can help you with</div>
+          <div className="columns is-multiline skills-list is-mobile has-text-centered">
+            <div className="column is-2-desktop skill is-4-mobile">
               <img
-                src="https://twemoji.maxcdn.com/v/12.1.6/72x72/1f4bc.png"
-                alt="💼"
-                className="suitcase"
+                src="https://cdn.svgporn.com/logos/c.svg"
+                alt="C-icon"
               />
-            </span>
-          </div>
-          <div className="columns is-multiline">
-            <div className="column is-6">
-              <div className="card">
-                <div className="card-content">
-                  <div className="media">
-                    <div className="media-left">
-                      <figure className="image is-64x64 project-logo">
-                        <img src="images/svv.png" alt="Placeholder image" />
-                      </figure>
-                    </div>
-                  </div>
-                  <div className="project-data">
-                    <h4>
-                      <a href="javascript:void(0)">KJSCE Outreach Center</a>
-                      <br />
-                      Member of Technical Team (Feb 19 - April 19)
-                    </h4>
-                    <p>
-                      Revamped the mobile application and made a cross platform
-                      app for Civil Defence of Maharashtra.
-                    </p>
-                    <div className="tag-list">
-                      <span className="tag is-black">Flutter SDK</span>
-                      <span className="tag is-black">Firebase</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              <p className="primary-content">C Programming</p>
             </div>
-            <div className="column is-6">
-              <div className="card">
-                <div className="card-content">
-                  <div className="media">
-                    <div className="media-left">
-                      <figure className="image is-64x64 project-logo">
-                        <img src="images/svv.png" alt="Placeholder image" />
-                      </figure>
-                    </div>
-                  </div>
-                  <div className="project-data">
-                    <h4>
-                      <a href="javascript:void(0)">KJSCE Computer Department</a>
-                      <br />
-                      Backend Intern (June 18 - July 18)
-                    </h4>
-                    <p>
-                      Worked on developing and improvising the backend of the
-                      Departmental Data Maintainance and Analysis Software of
-                      the Computer Department of KJSCE.
-                    </p>
-                    <div className="tag-list">
-                      <span className="tag is-black">PHP</span>
-                      <span className="tag is-black">MySQL</span>
-                      <span className="tag is-black">AJAX</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/java.svg"
+                alt="java-icon"
+              />
+              <p className="primary-content">Java</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/html-5.svg"
+                alt="html-5-icon"
+              />
+              <p className="primary-content">HTML</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/css-3.svg"
+                alt="css-3-icon"
+              />
+              <p className="primary-content">CSS</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/javascript.svg"
+                alt="js-icon"
+              />
+              <p className="primary-content">JavaScript</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/jquery.svg"
+                alt="jquery-icon"
+              />
+              <p className="primary-content">jQuery</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/bootstrap.svg"
+                alt="bootstrap-icon"
+              />
+              <p className="primary-content">Bootstrap</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/mysql.svg"
+                alt="mysql-icon"
+              />
+              <p className="primary-content">MySQL</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/php.svg"
+                alt="php-icon"
+              />
+              <p className="primary-content">PHP Programming</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/flutter.svg"
+                alt="flutter-icon"
+              />
+              <p className="primary-content">Flutter SDK</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/c-sharp.svg"
+                alt="c#-icon"
+              />
+              <p className="primary-content">C# Programming</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/salesforce.svg"
+                alt="salesforce-icon"
+              />
+              <p className="primary-content">Salesforce</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/mongodb.svg"
+                alt="mongodb-icon"
+              />
+              <p className="primary-content">Mongo DB</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/express.svg"
+                alt="express-icon"
+              />
+              <p className="primary-content">Express.js</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/react.svg"
+                alt="react-icon"
+              />
+              <p className="primary-content">React.js</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/nodejs.svg"
+                alt="nodejs-icon"
+              />
+              <p className="primary-content">Node.js</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/git.svg"
+                alt="git-icon"
+              />
+              <p className="primary-content">Git/Github</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/heroku.svg"
+                alt="heroku-icon"
+              />
+              <p className="primary-content">Heroku</p>
             </div>
           </div>
         </div>
+        
       </div>
       <footer className="footer footer-custom">
         <div className="content has-text-centered">
