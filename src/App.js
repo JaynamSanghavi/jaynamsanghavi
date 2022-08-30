@@ -46,7 +46,7 @@ function App() {
             </div>
             <div className="primary-content">
               <p>
-                I'm a Software &amp; Web developer based in Mumbai, India. I
+                I'm a Software &amp; Web developer based in Syracuse, New York. I
                 help users and businesses reach their goals by building
                 meaningful digital products and interactive experiences.
                 Building applications is central to everything. I love to work
@@ -182,7 +182,7 @@ function App() {
                     <h4>
                       <a href="javascript:void(0)">Wolters Kluwer</a>
                       <br />
-                      Associate Enterprise Software Engineer (Oct 20 - Present)
+                      Associate Enterprise Software Engineer (Oct 20 - July 22)
                     </h4>
                     <p>
                     Collaborated with business for requirement gathering to onboard them onto the salesforce sales cloud platform.Analyzing the 
