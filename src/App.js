@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <div className="pageloader is-black is-active" id="loader">
-        <span className="title title-pageloader">
-          Salesforce Developer | Web Developer | Mobile App Developer | CS Undergrad
+        <span className="title title-pageloader text-center">
+        Seeking Summer 2023 Internships | Salesforce Developer | Web Developer | Pursuing CS Grad
           <span className="pageloader-emoji">
             <img
               src="https://twemoji.maxcdn.com/v/12.1.6/72x72/1f468-200d-1f4bb.png"
@@ -24,7 +24,7 @@ function App() {
           </div>
           <nav className="navigation">
             <a
-              href="https://drive.google.com/file/d/1WIFaKX0bBjMqXRQNtcFzMlmAmCnK0Gi7/view?usp=sharing"
+              href="https://drive.google.com/file/d/1uwnslbdL2Z211oY2zocpK6axqjMh6SfN/view?usp=sharing"
               className="tag resume-tag is-dark is-medium is-rounded"
             >
               Resume
@@ -46,7 +46,7 @@ function App() {
             </div>
             <div className="primary-content">
               <p>
-                I'm a Software &amp; Web developer based in Syracuse, New York. I
+                I'm a Software &amp; Web developer pursuing my Master's in Computer Science from Syracuse University, New York. I
                 help users and businesses reach their goals by building
                 meaningful digital products and interactive experiences.
                 Building applications is central to everything. I love to work
@@ -110,7 +110,29 @@ function App() {
             </span>
           </div>
           <div className="columns is-multiline">
-            <div className="column is-6">
+          <div className="column is-4">
+              <div className="card">
+                <div className="card-content">
+                  <div className="media">
+                    <div className="media-left">
+                      <figure className="image is-64x64 project-logo">
+                        <img src="images/syracuse-university.png" alt="Placeholder image" />
+                      </figure>
+                    </div>
+                  </div>
+                  <div className="project-data">
+                    <h4>
+                      <a href="javascript:void(0)">Syracuse University</a>
+                      <br />
+                      Master's in Computer Science (2022-2024)
+                      <br />
+                      
+                    </h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="column is-4">
               <div className="card">
                 <div className="card-content">
                   <div className="media">
@@ -132,7 +154,7 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="column is-6">
+            <div className="column is-4">
               <div className="card">
                 <div className="card-content">
                   <div className="media">
