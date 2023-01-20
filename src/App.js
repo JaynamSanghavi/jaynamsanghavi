@@ -24,7 +24,7 @@ function App() {
           </div>
           <nav className="navigation">
             <a
-              href="https://drive.google.com/file/d/1uwnslbdL2Z211oY2zocpK6axqjMh6SfN/view?usp=sharing"
+              href="https://drive.google.com/file/d/1zNu6r4Ecrd0uSftvzjGt-u4ATxIT-5Qa/view?usp=share_link"
               className="tag resume-tag is-dark is-medium is-rounded"
             >
               Resume
@@ -260,7 +260,7 @@ function App() {
                     <h4>
                       <a href="javascript:void(0)">KJSCE Computer Department</a>
                       <br />
-                      Backend Intern (June 18 - July 18)
+                      Fullstack Intern (June 18 - July 18)
                     </h4>
                     <p>
                     Designed, developed, and architected a website for K.J Somaiya College of Engg for booking of common halls, seminar halls and 
@@ -661,7 +661,7 @@ function App() {
               Made with <a href="https://bulma.io/">Bulma</a>,
               <a href="https://www.flaticon.com/">Flaticon</a> &amp;
               <a href="https://fontawesome.com/"> &nbsp;Fontawesome</a> <br />
-              &copy; Jaynam Sanghavi 2020.
+              &copy; Jaynam Sanghavi 2023.
               <br />
               All logo and images are trademarks of respective organizations.
             </p>
