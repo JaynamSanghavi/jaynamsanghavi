@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="pageloader is-black is-active" id="loader">
         <span className="title title-pageloader text-center">
-        Seeking Summer 2023 Internships | Salesforce Developer | Web Developer | Pursuing CS Grad
+        Seeking 24 Full-time Opportunities | Salesforce Developer | Web Developer | Pursuing CS Grad
           <span className="pageloader-emoji">
             <img
               src="https://twemoji.maxcdn.com/v/12.1.6/72x72/1f468-200d-1f4bb.png"
@@ -126,7 +126,7 @@ function App() {
                       <br />
                       Master's in Computer Science (2022-2024)
                       <br />
-                      
+                      CPA: 3.8/4
                     </h4>
                   </div>
                 </div>
@@ -516,13 +516,6 @@ function App() {
           <div className="columns is-multiline skills-list is-mobile has-text-centered">
             <div className="column is-2-desktop skill is-4-mobile">
               <img
-                src="https://cdn.svgporn.com/logos/c.svg"
-                alt="C-icon"
-              />
-              <p className="primary-content">C Programming</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
                 src="https://cdn.svgporn.com/logos/java.svg"
                 alt="java-icon"
               />
@@ -551,17 +544,17 @@ function App() {
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
-                src="https://cdn.svgporn.com/logos/jquery.svg"
-                alt="jquery-icon"
-              />
-              <p className="primary-content">jQuery</p>
-            </div>
-            <div className="column is-2-desktop skill is-4-mobile">
-              <img
                 src="https://cdn.svgporn.com/logos/bootstrap.svg"
                 alt="bootstrap-icon"
               />
               <p className="primary-content">Bootstrap</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/angular.svg"
+                alt="jquery-icon"
+              />
+              <p className="primary-content">Angular</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
@@ -583,6 +576,13 @@ function App() {
                 alt="flutter-icon"
               />
               <p className="primary-content">Flutter SDK</p>
+            </div>
+            <div className="column is-2-desktop skill is-4-mobile">
+              <img
+                src="https://cdn.svgporn.com/logos/spring.svg"
+                alt="C-icon"
+              />
+              <p className="primary-content">Spring Boot</p>
             </div>
             <div className="column is-2-desktop skill is-4-mobile">
               <img
