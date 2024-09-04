@@ -24,7 +24,7 @@ function App() {
           </div>
           <nav className="navigation">
             <a
-              href="https://drive.google.com/file/d/1zNu6r4Ecrd0uSftvzjGt-u4ATxIT-5Qa/view?usp=share_link"
+              href="https://drive.google.com/file/d/1YWvtwK7BCSXSeTfF9M-UyLcLZKcU6ZNs/view?usp=sharing"
               className="tag resume-tag is-dark is-medium is-rounded"
             >
               Resume
