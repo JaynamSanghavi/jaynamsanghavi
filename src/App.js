@@ -37,10 +37,7 @@ function App() {
             <div className="headline">
               Namaste
               <span className="wave-emoji">
-                <img
-                  src="https://twemoji.maxcdn.com/v/12.1.6/72x72/1f64f-1f3fb.png"
-                  alt="🙏🏻"
-                />
+                <p>🙏🏻</p>
               </span>
               <br />I am <span className="name">Jaynam Sanghavi</span>
             </div>
