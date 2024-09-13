@@ -1,68 +1,67 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 👋 Hi, I'm Jaynam Sanghavi
 
-## Available Scripts
+I'm a passionate software developer with a strong foundation in computer science and extensive experience in full-stack development and Salesforce engineering. I thrive on creating innovative solutions and enjoy turning complex problems into simple, intuitive applications.
 
-In the project directory, you can run with:
+## 🛠 Skills
 
-### `npm start`
+- **Languages**: Apex, Java, Python, C#, ReactJS, AngularJS, NodeJS, HTML, CSS, JavaScript, PHP
+- **Frameworks/Libraries**: Salesforce Flow, Aura Components, Lightning Web Components, Apex Triggers, Spring Boot, Flask, Django, ExpressJS, Flutter, Bootstrap
+- **Databases**: SOQL, MySQL, Oracle Database, SQLite, MongoDB, Firebase
+- **Tools**: JIRA, Git, Ant Migration Tool, Data Loader, Microsoft Office, Heroku
+- **Certifications**: Salesforce Administrator, SDLC, Object-Oriented Methodology, Agile Methodology
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📊 GitHub Stats
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaynamSanghavi&layout=compact&theme=radical)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaynamSanghavi&theme=radical)
 
-### `npm run build`
+[![trophy](https://github-profile-trophy.vercel.app/?username=JaynamSanghavi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Jaynam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JaynamSanghavi&theme=radical)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎓 Education
 
-### `npm run eject`
+- **Master of Computer Science**, Syracuse University (2022 - 2024)  
+  Relevant Coursework: Operating Systems, Mobile Application Programming, Object-Oriented Design, Computer Architecture  
+  GPA: 3.82/4.0
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- **Bachelor of Computer Science**, Mumbai University (2017 - 2020)  
+  Relevant Coursework: Theory of Computer Science, Computer Networking, Data Structure, Data Warehouse, and Mining  
+  GPA: 3.66/4.0
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 💼 Professional Experience
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- **Associate Enterprise Software Engineer** | Wolters Kluwer, India (Jul 2020 - Jul 2022)  
+  - Spearheaded the transition of various processes to Salesforce Sales and Service Cloud, accelerating existing workflows by 80%.
+  - Developed a customer search system, reducing query result waiting time by 30%.
+  - Enhanced customer support response time by 50% with improved issue logging.
+  - Integrated external systems with Salesforce, reducing data entry errors by 20%.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- **FullStack Developer** | K.J. Somaiya College of Engineering, India (Dec 2018 - May 2019)  
+  - Led the development of a reservation system for seminar halls and equipment, improving the reservation process by 70%.
 
-## Learn More
+## 🚀 Projects
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **[Cuse Cafe Connect](https://github.com/meetishah13/cusecafeconnect)** (Jan 2024 - May 2024)  
+  Converted Syracuse University's offline cafe sub-booking process to a cross-platform app, optimizing it by 80%.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **[Textbook Reuse Management System](https://github.com/JaynamSanghavi/OOD-Assignment/tree/master/Reuse%20Book)** (May 2023 - Jul 2023)  
+  Developed a web-based platform for textbook reuse, increasing accessibility and affordability by 20%.
 
-### Code Splitting
+## 🌱 I’m currently learning
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+I'm learning Rust programming and documenting my journey on [GitHub](https://github.com/JaynamSanghavi).
 
-### Analyzing the Bundle Size
+## 📫 How to reach me
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- **Email**: [jaynamsanghavi98@gmail.com](mailto:jaynamsanghavi98@gmail.com)  
+- **LinkedIn**: [Jaynam Sanghavi](https://www.linkedin.com/in/jaynam-sanghavi/)  
+- **Portfolio**: [jaynamsanghavi.netlify.app](https://jaynamsanghavi.netlify.app/)  
+- **Trailhead**: [Jaynam Sanghavi](https://www.salesforce.com/trailblazer/jaynamsanghavi)
 
-### Making a Progressive Web App
+## ⚡ Fun Fact
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+I enjoy playing cricket, which is like an Indianized version of baseball, and I love cooking different cuisines!
